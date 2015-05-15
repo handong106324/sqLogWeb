@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/mis/!svn/ver/2478/trunk/mis/src/main/webapp/views/common
+END
+500.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/mis/!svn/ver/1275/trunk/mis/src/main/webapp/views/common/500.jsp
+END
+cur_page.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mis/!svn/ver/1275/trunk/mis/src/main/webapp/views/common/cur_page.jsp
+END
+404.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/mis/!svn/ver/1275/trunk/mis/src/main/webapp/views/common/404.jsp
+END
+monitor.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/mis/!svn/ver/2478/trunk/mis/src/main/webapp/views/common/monitor.jsp
+END
+common.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mis/!svn/ver/1275/trunk/mis/src/main/webapp/views/common/common.jsp
+END
+page.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/mis/!svn/ver/1275/trunk/mis/src/main/webapp/views/common/page.jsp
+END
+div_thickbox.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mis/!svn/ver/1467/trunk/mis/src/main/webapp/views/common/div_thickbox.jsp
+END
+exception.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mis/!svn/ver/1275/trunk/mis/src/main/webapp/views/common/exception.jsp
+END
+tools.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/mis/!svn/ver/1275/trunk/mis/src/main/webapp/views/common/tools.jsp
+END
+detail.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mis/!svn/ver/1899/trunk/mis/src/main/webapp/views/common/detail.jsp
+END
